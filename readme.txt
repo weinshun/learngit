@@ -1,2 +1,2 @@
-git is  a  version  contron dydtem.
+git is  a   distributed version  contron dydtem.
 Git is free  doftware.
